@@ -9,3 +9,14 @@ D:\Tutorial\2024\Interview\Dot Net\Practical examples\Practic_Codes\obj\Debug\ne
 D:\Tutorial\2024\Interview\Dot Net\Practical examples\Practic_Codes\obj\Debug\net6.0\refint\Practic_Codes.dll
 D:\Tutorial\2024\Interview\Dot Net\Practical examples\Practic_Codes\obj\Debug\net6.0\Practic_Codes.pdb
 D:\Tutorial\2024\Interview\Dot Net\Practical examples\Practic_Codes\obj\Debug\net6.0\ref\Practic_Codes.dll
+D:\Tutorial\2024\Interview\Dot Net\CSharpPrograms\Practic_Codes\bin\Debug\net6.0\Practic_Codes.deps.json
+D:\Tutorial\2024\Interview\Dot Net\CSharpPrograms\Practic_Codes\bin\Debug\net6.0\Practic_Codes.dll
+D:\Tutorial\2024\Interview\Dot Net\CSharpPrograms\Practic_Codes\bin\Debug\net6.0\Practic_Codes.pdb
+D:\Tutorial\2024\Interview\Dot Net\CSharpPrograms\Practic_Codes\obj\Debug\net6.0\Practic_Codes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tutorial\2024\Interview\Dot Net\CSharpPrograms\Practic_Codes\obj\Debug\net6.0\Practic_Codes.AssemblyInfoInputs.cache
+D:\Tutorial\2024\Interview\Dot Net\CSharpPrograms\Practic_Codes\obj\Debug\net6.0\Practic_Codes.AssemblyInfo.cs
+D:\Tutorial\2024\Interview\Dot Net\CSharpPrograms\Practic_Codes\obj\Debug\net6.0\Practic_Codes.csproj.CoreCompileInputs.cache
+D:\Tutorial\2024\Interview\Dot Net\CSharpPrograms\Practic_Codes\obj\Debug\net6.0\Practic_Codes.dll
+D:\Tutorial\2024\Interview\Dot Net\CSharpPrograms\Practic_Codes\obj\Debug\net6.0\refint\Practic_Codes.dll
+D:\Tutorial\2024\Interview\Dot Net\CSharpPrograms\Practic_Codes\obj\Debug\net6.0\Practic_Codes.pdb
+D:\Tutorial\2024\Interview\Dot Net\CSharpPrograms\Practic_Codes\obj\Debug\net6.0\ref\Practic_Codes.dll

@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Tutorial\\2024\\Interview\\Dot Net\\Practical examples\\CSharpPrograms\\CSharpPrograms.csproj",
+      "projectUniqueName": "D:\\Tutorial\\2024\\Interview\\Dot Net\\CSharpPrograms\\CSharpPrograms\\CSharpPrograms.csproj",
       "projectName": "CSharpPrograms",
-      "projectPath": "D:\\Tutorial\\2024\\Interview\\Dot Net\\Practical examples\\CSharpPrograms\\CSharpPrograms.csproj",
+      "projectPath": "D:\\Tutorial\\2024\\Interview\\Dot Net\\CSharpPrograms\\CSharpPrograms\\CSharpPrograms.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "D:\\Tutorial\\2024\\Interview\\Dot Net\\Practical examples\\CSharpPrograms\\obj\\",
+      "outputPath": "D:\\Tutorial\\2024\\Interview\\Dot Net\\CSharpPrograms\\CSharpPrograms\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -59,8 +59,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Tutorial\\2024\\Interview\\Dot Net\\Practical examples\\Practic_Codes\\Practic_Codes.csproj": {
-              "projectPath": "D:\\Tutorial\\2024\\Interview\\Dot Net\\Practical examples\\Practic_Codes\\Practic_Codes.csproj"
+            "D:\\Tutorial\\2024\\Interview\\Dot Net\\CSharpPrograms\\Practic_Codes\\Practic_Codes.csproj": {
+              "projectPath": "D:\\Tutorial\\2024\\Interview\\Dot Net\\CSharpPrograms\\Practic_Codes\\Practic_Codes.csproj"
             }
           }
         }

@@ -16,3 +16,21 @@ D:\Tutorial\2024\Interview\Dot Net\Practical examples\CSharpPrograms\bin\Debug\n
 D:\Tutorial\2024\Interview\Dot Net\Practical examples\CSharpPrograms\bin\Debug\net6.0\Practic_Codes.pdb
 D:\Tutorial\2024\Interview\Dot Net\Practical examples\CSharpPrograms\obj\Debug\net6.0\CSharpPrograms.csproj.AssemblyReference.cache
 D:\Tutorial\2024\Interview\Dot Net\Practical examples\CSharpPrograms\obj\Debug\net6.0\CSharpPrograms.csproj.CopyComplete
+D:\Tutorial\2024\Interview\Dot Net\CSharpPrograms\CSharpPrograms\bin\Debug\net6.0\CSharpPrograms.exe
+D:\Tutorial\2024\Interview\Dot Net\CSharpPrograms\CSharpPrograms\bin\Debug\net6.0\CSharpPrograms.deps.json
+D:\Tutorial\2024\Interview\Dot Net\CSharpPrograms\CSharpPrograms\bin\Debug\net6.0\CSharpPrograms.runtimeconfig.json
+D:\Tutorial\2024\Interview\Dot Net\CSharpPrograms\CSharpPrograms\bin\Debug\net6.0\CSharpPrograms.dll
+D:\Tutorial\2024\Interview\Dot Net\CSharpPrograms\CSharpPrograms\bin\Debug\net6.0\CSharpPrograms.pdb
+D:\Tutorial\2024\Interview\Dot Net\CSharpPrograms\CSharpPrograms\bin\Debug\net6.0\Practic_Codes.dll
+D:\Tutorial\2024\Interview\Dot Net\CSharpPrograms\CSharpPrograms\bin\Debug\net6.0\Practic_Codes.pdb
+D:\Tutorial\2024\Interview\Dot Net\CSharpPrograms\CSharpPrograms\obj\Debug\net6.0\CSharpPrograms.csproj.AssemblyReference.cache
+D:\Tutorial\2024\Interview\Dot Net\CSharpPrograms\CSharpPrograms\obj\Debug\net6.0\CSharpPrograms.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tutorial\2024\Interview\Dot Net\CSharpPrograms\CSharpPrograms\obj\Debug\net6.0\CSharpPrograms.AssemblyInfoInputs.cache
+D:\Tutorial\2024\Interview\Dot Net\CSharpPrograms\CSharpPrograms\obj\Debug\net6.0\CSharpPrograms.AssemblyInfo.cs
+D:\Tutorial\2024\Interview\Dot Net\CSharpPrograms\CSharpPrograms\obj\Debug\net6.0\CSharpPrograms.csproj.CoreCompileInputs.cache
+D:\Tutorial\2024\Interview\Dot Net\CSharpPrograms\CSharpPrograms\obj\Debug\net6.0\CSharpPrograms.csproj.CopyComplete
+D:\Tutorial\2024\Interview\Dot Net\CSharpPrograms\CSharpPrograms\obj\Debug\net6.0\CSharpPrograms.dll
+D:\Tutorial\2024\Interview\Dot Net\CSharpPrograms\CSharpPrograms\obj\Debug\net6.0\refint\CSharpPrograms.dll
+D:\Tutorial\2024\Interview\Dot Net\CSharpPrograms\CSharpPrograms\obj\Debug\net6.0\CSharpPrograms.pdb
+D:\Tutorial\2024\Interview\Dot Net\CSharpPrograms\CSharpPrograms\obj\Debug\net6.0\CSharpPrograms.genruntimeconfig.cache
+D:\Tutorial\2024\Interview\Dot Net\CSharpPrograms\CSharpPrograms\obj\Debug\net6.0\ref\CSharpPrograms.dll
