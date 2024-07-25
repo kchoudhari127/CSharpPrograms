@@ -21,9 +21,10 @@ namespace Practic_Codes
 
         }
 
-        //The ref keyword indicates that the parameter is initialized before entering the function.
+       
         public static int MultiplyRef(int x, int y, ref int div)
         {
+            //The ref keyword indicates that the parameter is initialized before entering the function.
             //The called function can read and modify the value of the ref parameter.
             //The parameter goes into the function and comes out with potential modifications.
             //Useful for two-way communication between the caller and the function.

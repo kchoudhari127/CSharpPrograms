@@ -10,6 +10,13 @@ Console.WriteLine("Hello, World!");
 //Ref_vs_Out obj1 = new Ref_vs_Out();
 //obj1.RefvsOut();
 
-Readonly_vs_Const obj2 = new Readonly_vs_Const();
-obj2.Display();
-Console.ReadKey();
+//Readonly_vs_Const obj2 = new Readonly_vs_Const();
+//obj2.Display();
+//Console.ReadKey();
+
+//List_vs_Dictionary ld = new List_vs_Dictionary();
+//ld.list_and_Dictionary();
+
+LinqDemo linqDemo = new LinqDemo();
+linqDemo.LinqDemo1();
+
