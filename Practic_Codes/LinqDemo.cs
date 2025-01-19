@@ -4,7 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-// LINQ (Language Integrated Query) is a powerful feature in C# that allows you to query and manipulate data from various sources using a uniform syntax.
+// LINQ (Language Integrated Query) is a powerful feature in C# that allows you to query and manipulate data from
+// various sources using a uniform syntax.
 
 namespace Practic_Codes
 {

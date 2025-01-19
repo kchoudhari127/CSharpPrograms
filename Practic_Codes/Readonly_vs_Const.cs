@@ -24,7 +24,7 @@ namespace Practic_Codes
 
         public Readonly_vs_Const()
         {
-           // num1 = 20;
+            //num1 = 20;
             num2 = 200;
         }
 

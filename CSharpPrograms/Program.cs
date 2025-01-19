@@ -1,7 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using Practic_Codes;
 
-Console.WriteLine("Hello, World!");
+//Console.WriteLine("Hello, World!");
 
 //Multi_Catch_Block obj = new Multi_Catch_Block();
 
@@ -17,6 +17,11 @@ Console.WriteLine("Hello, World!");
 //List_vs_Dictionary ld = new List_vs_Dictionary();
 //ld.list_and_Dictionary();
 
-LinqDemo linqDemo = new LinqDemo();
-linqDemo.LinqDemo1();
+//LinqDemo linqDemo = new LinqDemo();
+//linqDemo.LinqDemo1();
 
+//Reverse_String reverse_String = new Reverse_String();
+Read_Write_File_InC_ read_Write_File_InC_ = new Read_Write_File_InC_();
+read_Write_File_InC_.Write_File();
+read_Write_File_InC_.Read_File();
+Console.ReadKey();
